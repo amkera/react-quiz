@@ -23,3 +23,5 @@ export const fetchQuizQuestions = async (
   const data = await await (await fetch(endpoint)).json();
   console.log(data);
 };
+
+//https://www.youtube.com/watch?v=F2JCjVSZlG0 left off on 34:46
